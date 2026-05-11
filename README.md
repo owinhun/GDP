@@ -1,48 +1,84 @@
-# Grounded Distractor Protocol (GDP)
+<!--
+ANONYMOUS README
+This README is for double-blind review.
+Author information will be added upon de-anonymization.
+-->
 
-> Diagnosing Model-Dependent Intervention Effects under Hard Distractors 
-> in MCQ-Based Vision-Language Model Evaluation
+# Grounded Distractor Protocol (GDP): Diagnosing Model-Dependent Intervention Effects under Hard Distractors in MCQ-Based Vision-Language Model Evaluation
 
-## Overview
+by Anonymous Authors
 
-GDP is a matched original/permutation/hard evaluation protocol designed to 
-diagnose how vision-language models (VLMs) respond to same-type, visually 
-plausible near-miss distractors under controlled interventions.
+This is the official implementation of **Grounded Distractor Protocol (GDP)**, a *matched three-condition diagnostic protocol* that evaluates how vision-language models respond to **same-type, visually plausible hard distractors** under controlled prompting interventions.
 
-This repository accompanies our paper submitted to CIKM 2026.
+---
 
-## Key Findings
+### Overview
 
-- Hard distractor sensitivity exhibits **model-dependent** patterns that 
-  cannot be explained by generic option-position bias alone.
-- Evidence-first prompting is **not a universal improvement**: LLaVA family 
-  models benefit, while Qwen2.5-VL and InternVL2.5 show negative effects.
-- Answer-first follow-up controls suggest that the model-dependent effects 
-  reflect differences in intervention mechanisms, not just performance.
+<p align="center">
+  <img src="figure2_gdp.png" width="92%">
+</p>
 
-## Status
+Multiple-choice evaluation for vision-language models (VLMs) increasingly relies on stronger distractors, but a single accuracy score cannot distinguish whether models truly use **fine-grained visual evidence** or rely on coarse cues.
 
-🚧 **This repository is under construction.** 
+**GDP** instantiates a matched (original, permutation-control, hard-distractor) protocol over a manually reviewed **98-item diagnostic slice (GDP-Slice)** and probes evidence-first prompting as a **controlled diagnostic intervention**—not a new prompting method.
 
-Code, GDP-Slice dataset, and prompt templates will be released upon 
-publication of the paper.
+We find that the same evidence-first intervention is **not universally beneficial**: LLaVA-style models improve, while Qwen2.5-VL and InternVL2.5 show **opposite, negative effects**. Answer-first controls further suggest the model-dependent effects reflect **different intervention mechanisms**, not just performance.
 
-## Planned Contents
+---
 
+### Status
+
+🚧 **This repository is under construction.** Code, GDP-Slice dataset, and prompt templates will be released upon publication.
+
+Planned contents:
 - [ ] GDP-Slice: 98-item diagnostic slice with hard distractors
 - [ ] Prompt templates (direct, evidence-first, answer-first)
 - [ ] Inference scripts for 4 evaluated VLMs
-- [ ] Metric computation (HSIG, ΔHDsel, statistical tests)
+- [ ] Metric computation (HSIG, ΔHDsel, McNemar tests, bootstrap CIs)
 - [ ] Reproduction scripts
 
-## Citation
+---
 
-Citation information will be added upon publication.
+### Installation
 
-## Contact
+<!--
+```bash
+conda create -n gdp python=3.10
+conda activate gdp
+git clone <>
+cd <>
+pip install -r requirements.txt
+```
+-->
+
+### Method
+
+---
+
+### Acknowledgement
 
 Will be added upon de-anonymization.
 
-## License
+---
 
-MIT License (planned)
+### Questions?
+
+---
+
+Contact information will be added upon de-anonymization.
+
+---
+
+### Citation
+
+---
+
+```bibtex
+@inproceedings{anonymous2026gdp,
+  title={Grounded Distractor Protocol: Diagnosing Model-Dependent Intervention Effects under Hard Distractors in MCQ-Based Vision-Language Model Evaluation},
+  author={Anonymous Authors},
+  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM)},
+  year={2026},
+  note={Under review}
+}
+```
