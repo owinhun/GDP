@@ -6,6 +6,10 @@ Author information will be added upon de-anonymization.
 
 # Grounded Distractor Protocol (GDP): Diagnosing Model-Dependent Intervention Effects under Hard Distractors in MCQ-Based Vision-Language Model Evaluation
 
+[arXiv]()
+[Project Page]()
+[Paper PDF]()
+
 by Seunghun Oh, Unsang Park
 
 This is the official implementation of **Grounded Distractor Protocol (GDP)**, a *matched three-condition diagnostic protocol* that evaluates how vision-language models respond to **same-type, visually plausible hard distractors** under controlled prompting interventions.
