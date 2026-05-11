@@ -15,7 +15,7 @@ This is the official implementation of **Grounded Distractor Protocol (GDP)**, a
 ### Overview
 
 <p align="center">
-  <img src="figure2_gdp.png" width="92%">
+  <img src="figure2_new.png" width="92%">
 </p>
 
 Multiple-choice evaluation for vision-language models (VLMs) increasingly relies on stronger distractors, but a single accuracy score cannot distinguish whether models truly use **fine-grained visual evidence** or rely on coarse cues.
