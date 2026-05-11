@@ -65,8 +65,7 @@ Will be added upon de-anonymization.
 
 ---
 
-Contact information will be added upon de-anonymization.
-
+If you have any questions, feel free to email Seunghun (gnsgus190@sogang.ac.kr).
 ---
 
 ### Citation
