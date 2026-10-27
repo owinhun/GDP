@@ -1,7 +1,7 @@
 # Grounded Distractor Probing: A Diagnostic Protocol for Hard-Distractor Sensitivity in VLM Multiple-Choice Evaluation
 
 > [!IMPORTANT]
-> 🎉 **Accepted at CIKM 2026** (Short Research Paper)
+> 🎉 **Accepted at CIKM 2026**
 
 **[Project Page](https://owinhun.github.io/GDP/)** · **[Paper PDF](./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf)**
 
