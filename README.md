@@ -62,6 +62,7 @@ The release is planned to include the reviewed GDP-Slice data, prompt templates,
 ## Acknowledgements
 
 For the authoritative acknowledgement and funding disclosures, please refer to the [camera-ready manuscript](./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf).
+
 This work was supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. RS-2024-00438027, Development of an intelligent security and risk response system based on multi-modal data integration analysis), and by the Artificial Intelligence Innovation Graduate School (Sogang University) grant funded by the Korea government (MSIT) (No. RS-2026-25547954).
 
 
