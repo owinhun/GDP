@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > 🎉 **Accepted at CIKM 2026**
 
-**[Project Page]([https://owinhun.github.io/GDP/](https://github.com/owinhun/GDP/blob/main/proj/proj.html))** · **[Paper PDF](./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf)**
+**[Project Page](https://owinhun.github.io/GDP/)** · **[Paper PDF](./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf)**
 
 **Seunghun Oh · Ganghyeon Jeong · Unsang Park**  
 Computer Vision and Image Processing (CVIP) Lab, Sogang University
@@ -48,7 +48,7 @@ The release is planned to include the reviewed GDP-Slice data, prompt templates,
 ## Release Status
 
 - [x] Camera-ready paper available
-- [x] Project page source prepared (publish with GitHub Pages)
+- [x] Project page available via GitHub Pages
 - [ ] GDP-Slice (98-item diagnostic data) released
 - [ ] Direct / evidence-first / answer-first prompt templates released
 - [ ] VLM inference scripts and dependency specifications released
@@ -61,7 +61,9 @@ The release is planned to include the reviewed GDP-Slice data, prompt templates,
 
 ## Acknowledgements
 
-For the authoritative acknowledgement and funding disclosures, please refer to the [camera-ready manuscript](./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf). This section should mirror the paper's wording exactly once verified; no funding sources are inferred here.
+For the authoritative acknowledgement and funding disclosures, please refer to the [camera-ready manuscript](./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf).
+This work was supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. RS-2024-00438027, Development of an intelligent security and risk response system based on multi-modal data integration analysis), and by the Artificial Intelligence Innovation Graduate School (Sogang University) grant funded by the Korea government (MSIT) (No. RS-2026-25547954).
+
 
 ## Contact
 
