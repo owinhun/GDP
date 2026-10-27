@@ -5,7 +5,7 @@
 
 [arXiv]()
 [Project Page]()
-[Paper PDF]()
+[Paper PDF](https://github.com/owinhun/GDP/blob/main/csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf)
 
 by Seunghun Oh, Ganghyeon Jeong, Unsang Park
 
