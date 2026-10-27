@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > 🎉 **Accepted at CIKM 2026**
 
-**[Project Page](https://owinhun.github.io/GDP/proj/proj.html)**(./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf)** [Paper PDF]
+**[Project Page](https://owinhun.github.io/GDP/proj/proj.html)**(./csp3510_Grounded_Distractor_Probing_A_Diagnostic_Protocol_for_Hard_Distractor_Sensitivity_in_VLM_Multiple_Choice_Evaluation.pdf)**
 
 **Seunghun Oh · Ganghyeon Jeong · Unsang Park**  
 Computer Vision and Image Processing (CVIP) Lab, Sogang University
